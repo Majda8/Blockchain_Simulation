@@ -1,0 +1,49 @@
+{
+  "name": "savjeecoin-frontend",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+    "prod": "ng build --aot --progress false",
+    "deploy": "ng deploy"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^14.0.2",
+    "@angular/common": "^14.0.2",
+    "@angular/compiler": "^14.0.2",
+    "@angular/core": "^14.0.2",
+    "@angular/forms": "^14.0.2",
+    "@angular/platform-browser": "^14.0.2",
+    "@angular/platform-browser-dynamic": "^14.0.2",
+    "@angular/router": "^14.0.2",
+    "angular-cli-ghpages": "^1.0.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "rxjs": "^6.6.7",
+    "savjeecoin": "github:SavjeeTutorials/SavjeeCoin#5cc294c488604546526bf277eceef9ea443b762b",
+    "SavjeeCoin": "github:SavjeeTutorials/SavjeeCoin#5cc294c488604546526bf277eceef9ea443b762b",
+    "tslib": "^2.0.0",
+    "zone.js": "~0.11.6"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^14.0.2",
+    "@angular/cli": "^14.0.2",
+    "@angular/compiler-cli": "^14.0.2",
+    "@angular/language-service": "^14.0.2",
+    "@types/jasmine": "^4.0.3",
+    "@types/jasminewd2": "~2.0.3",
+    "@types/node": "^18.0.0",
+    "jasmine-core": "^4.2.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage-istanbul-reporter": "~3.0.2",
+    "karma-jasmine": "~4.0.0",
+    "karma-jasmine-html-reporter": "^1.5.0",
+    "typescript": "^4.7.4"
+  }
+}
