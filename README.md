@@ -12,9 +12,6 @@ This is the **MajdaCoin** project, a web application designed for cryptocurrency
 
 -> Ensure that you have Node.js and npm installed:
 
-Node.js: Required for running the development server and managing dependencies.
-npm: Used for managing dependencies and running scripts
-
 -> To run the project locally, follow these steps:
 
 1. Clone the repository:
